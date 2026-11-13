@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.AETHER-CORE1219/genesis-astro",
+  "title": "GenesisCore Astrology (Western + Vedic)",
+  "description": "Free Western and Vedic astrology: signs, nakshatra, Ascendant, retrogrades, ingresses.",
+  "version": "1.0.0",
+  "websiteUrl": "https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/developers",
+  "repository": { "url": "https://github.com/AETHER-CORE1219/genesis-astro-mcp", "source": "github" },
+  "remotes": [ { "type": "streamable-http", "url": "https://genesis-astro-guide-r2owtywexa-an.a.run.app/mcp" } ]
+}

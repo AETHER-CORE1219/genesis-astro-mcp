@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "genesis-astro": { "type": "http", "url": "https://genesis-astro-guide-r2owtywexa-an.a.run.app/mcp" }
+  }
+}
