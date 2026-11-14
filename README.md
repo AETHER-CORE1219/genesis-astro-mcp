@@ -55,6 +55,16 @@ curl -s -X POST https://genesis-astro-guide-r2owtywexa-an.a.run.app/mcp -H 'cont
 - Open data (CSV/JSON, CC BY 4.0): [planet-sign-ingress-data](https://github.com/AETHER-CORE1219/planet-sign-ingress-data)
 - Free web calculators: [English](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/tools/sign-checker) · [Español](https://genesis-astro-guide-r2owtywexa-an.a.run.app/es) · [Português](https://genesis-astro-guide-r2owtywexa-an.a.run.app/pt) · [हिन्दी](https://genesis-astro-guide-r2owtywexa-an.a.run.app/hi) · [Türkçe](https://genesis-astro-guide-r2owtywexa-an.a.run.app/tr) · [日本語](https://genesis-astro-guide-r2owtywexa-an.a.run.app/ja/tools/sign-checker)
 
+## Free calendars and guides (same calculations, for people)
+- [Mercury retrograde dates 2025–2027](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/guides/retrograde) — station times, sign and degree for Mercury, Venus, Mars, Jupiter and Saturn ([日本語](https://genesis-astro-guide-r2owtywexa-an.a.run.app/ja/guides/retrograde))
+- [Full moon and new moon calendar 2026–2027](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/guides/full-moon-new-moon) — all 50 lunations and 9 eclipses in UTC/JST ([日本語](https://genesis-astro-guide-r2owtywexa-an.a.run.app/ja/guides/full-moon-new-moon))
+- [Today's planetary positions](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/today) — Sun to Pluto, Moon sign and nakshatra
+- [Moon sign meanings](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/guides/moon) · [Venus sign](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/guides/venus) · [Mars sign](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/guides/mars) · [Mercury sign](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/guides/mercury)
+- [Ascendant (rising sign) calculator](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/tools/ascendant) · [Vimshottari Dasha calculator](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/tools/dasha) · [Navamsa (D9) calculator](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/tools/navamsa)
+- [Developer page: REST API + MCP](https://genesis-astro-guide-r2owtywexa-an.a.run.app/en/developers)
+
+Listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=genesis-astro) as `io.github.AETHER-CORE1219/genesis-astro`.
+
 ## Method
 Astronomy Engine 2.1.19, geocentric apparent ecliptic longitude of date. Sidereal positions use the Lahiri ayanamsa (Swiss Ephemeris SIDM_LAHIRI fit). Retrograde stations are found from the sign change of daily motion, bisected to 30 s.
 
