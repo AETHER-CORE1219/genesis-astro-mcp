@@ -15,7 +15,7 @@ Ask your AI assistant things like *"What is my moon sign? I was born 15 Aug 1995
 | `get_sign_ingresses` | Exact UTC times Mercury, Venus or Mars entered each sign, 1940–2030 |
 | `get_current_sky` | Current tropical and sidereal positions of the Sun, Moon and planets |
 
-Every result includes links to plain-language explanation pages and a `full_reading.app_url` for a complete free Western + Vedic chart analysis on [GenesisCore](https://app.aether-core.org/en?utm_source=github&utm_medium=readme&utm_campaign=mcp-repo).
+Every result includes links to plain-language explanation pages and a `full_reading.app_url` for a complete free Western + Vedic chart analysis on [GenesisCore](https://app.aether-core.org/en?utm_source=github&utm_medium=readme&utm_campaign=mcp-repo). For a paid Standard or Premium reading, [start a paid analysis](https://app.aether-core.org/en/paid/start?source=guide&utm_source=github&utm_medium=readme&utm_campaign=mcp-repo-paid).
 
 ## Connect
 
